@@ -20,6 +20,8 @@ A responsive product showcase web application built with React, Vite, TypeScript
 - React Router
 
 ## Getting Started
+Use node version 20.19.3
+
 1. Install dependencies:
    ```sh
    npm install
